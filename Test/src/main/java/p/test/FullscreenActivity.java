@@ -123,7 +123,7 @@ public class FullscreenActivity extends Activity {
         // are available.
         delayedHide(100);
     }
-    //test
+
 
     /**
      * Touch listener to use for in-layout UI controls to delay hiding the
